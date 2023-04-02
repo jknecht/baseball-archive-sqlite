@@ -1,5 +1,7 @@
-SQLite Baseball Archive
-=======================
+# SQLite Baseball Archive
+
+Sqlite database files are now available only as releases.  Dowload the latest release [here](https://github.com/jknecht/baseball-archive-sqlite/releases/latest).
+
 Thanks to the generous work of [Sean Lahman](https://www.seanlahman.com/baseball-archive/statistics), baseball geeks everywhere can 
 analyze and play with baseball stats dating all the way back to 1871.
 Unfortunately, this data is only published in MS Access or as a collection
